@@ -6,6 +6,8 @@ One rule runs through all of it: a system should never lie about its own state. 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Passayge](https://github.com/Henrycarto/passayge) | ELGA-style health data exchange sandbox on IHE FHIR profiles: e-card access windows, every access audited. 116 tests. Live at [passayge.vercel.app](https://passayge.vercel.app). | React, TypeScript, Node, HAPI FHIR |
+| [wardkit](https://github.com/Henrycarto/wardkit) | Five FHIR R4 clinical UI components that refuse to show a missing value as zero. 148 tests. Live at [wardkit.vercel.app](https://wardkit.vercel.app). | React, TypeScript |
 | [hl7-fhir-gateway](https://github.com/Henrycarto/hl7-fhir-gateway) | HL7 v2 ADT and ORU over MLLP to FHIR R4 bundles. Idempotent on resends, ordered outbox with backoff and a dead-letter queue. 35 tests. | Java 21, Spring Boot 3, HAPI |
 | [second-read](https://github.com/Henrycarto/second-read) | Medical image annotation with four-eyes review, a hash-chained audit trail and DICOM de-identification. 54 tests. | Django, DRF, pydicom |
 | [pulse-fhir-gateway](https://github.com/Henrycarto/pulse-fhir-gateway) | A 200 Hz pulse stream to FHIR R4 Observations that reports gaps instead of inventing values. Passes the HL7 validator. | Python |
