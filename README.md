@@ -7,6 +7,7 @@ One rule runs through all of it: a system should never lie about its own state. 
 | Project | What it does | Stack |
 |---|---|---|
 | [Passayge](https://github.com/Henrycarto/passayge) | ELGA-style health data exchange sandbox on IHE FHIR profiles: e-card access windows, every access audited. 116 tests. Live at [passayge.vercel.app](https://passayge.vercel.app). | React, TypeScript, Node, HAPI FHIR |
+| [Playnt](https://github.com/Henrycarto/playnt) | Post-market complaint triage under the EU MDR: a model suggests, a quality engineer decides, deadlines follow Art. 87 to the day. 96 tests. Live at [playnt.vercel.app](https://playnt.vercel.app). | Node.js, Express, MongoDB, React, TypeScript |
 | [wardkit](https://github.com/Henrycarto/wardkit) | Five FHIR R4 clinical UI components that refuse to show a missing value as zero. 148 tests. Live at [wardkit.vercel.app](https://wardkit.vercel.app). | React, TypeScript |
 | [Chemsisy](https://github.com/Henrycarto/chemsisy) | Open-source molecule explorer for pharmacy and medical students: each functional group highlighted with a sourced note. 227 tests. Live at [chemsisy.vercel.app](https://chemsisy.vercel.app). | React, TypeScript, 3Dmol.js, RDKit |
 | [hl7-fhir-gateway](https://github.com/Henrycarto/hl7-fhir-gateway) | HL7 v2 ADT and ORU over MLLP to FHIR R4 bundles. Idempotent on resends, ordered outbox with backoff and a dead-letter queue. 35 tests. | Java 21, Spring Boot 3, HAPI |
