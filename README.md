@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Healthcare software that never lies about its own state" width="100%">
 
-Software engineer in Vienna with an M.Sc. in Medical Engineering and eHealth (FH Technikum Wien) and a TÜV AUSTRIA certificate as Quality & Regulatory Affairs Manager-Junior for medical devices (ISO/IEC 17024). Founding Engineer at FSHNiSTA. Case files for each project at [henrycarto.com](https://henrycarto.com).
+Software engineer in Vienna with an M.Sc. in Medical Engineering and eHealth (FH Technikum Wien) and a TÜV AUSTRIA certificate as Quality & Regulatory Affairs Manager for medical devices (ISO/IEC 17024). Product Engineer at FSHNiSTA. Case files for each project at [henrycarto.com](https://henrycarto.com).
 
 One rule runs through all of it: a system should never lie about its own state. A missing value comes back absent, never as zero.
 
