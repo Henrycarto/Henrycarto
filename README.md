@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Henry Carto, Software, Medical and eHealth Engineer" width="100%">
+<img src="banner.png" alt="Software, Medical and eHealth Engineer, henrycarto.com" width="100%">
 
 Software engineer in Vienna with an M.Sc. in Medical Engineering and eHealth (FH Technikum Wien) and a TÜV AUSTRIA certificate as Quality & Regulatory Affairs Manager for medical devices (ISO/IEC 17024). Product Engineer at FSHNiSTA. Case files for each project at [henrycarto.com](https://henrycarto.com).
 
